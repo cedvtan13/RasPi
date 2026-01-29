@@ -61,7 +61,7 @@ Each experiment includes:
 
 ---
 
-**Started**: 01/29/2026 
+**Started**: 01/29/2026
 **Main Goal**: Learn computer architecture and organization through C lang
 
 ---
